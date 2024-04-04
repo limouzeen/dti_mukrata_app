@@ -1,16 +1,8 @@
-# dti_mukrata_app
+# Mukrata Buffet App
+Created by : Amarat Kositwongsakul
 
-A new Flutter project.
+## ScreenUI
+<img src="https://github.com/limouzeen/dti_mukrata_app/assets/133729978/4dff1fd9-c23e-40e4-9847-1de410c48faa" width="125">
+<img src="https://github.com/limouzeen/dti_mukrata_app/assets/133729978/031741e2-9650-41ce-8ba7-e0d6e84a80a3" width="125">
+<img src="https://github.com/limouzeen/dti_mukrata_app/assets/133729978/1425b675-5622-45f2-a513-55f3377ed1ee" width="125">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
